@@ -2,7 +2,7 @@ import './App.css';
 function PricingCart() {
   return (
     <div className="App">
-      <section class="pricing-5">
+      <section class="pricing py-5">
   <div class="container">
     <div class="row">
       <div class="col-lg-4">
@@ -16,14 +16,14 @@ function PricingCart() {
               <li><span class="fa-li"><i class="fas fa-check"></i></span>5GB Storage</li>
               <li><span class="fa-li"><i class="fas fa-check"></i></span>Unlimited Public Projects</li>
               <li><span class="fa-li"><i class="fas fa-check"></i></span>Community Access</li>
-              <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Unlimitedd
+              <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Unlimited
                 Private Projects</li>
-              <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Dedicatedd
+              <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Dedicated
                 Phone Support</li>
-              <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Free Sub domain
+              <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Free Subdomain
               </li>
               <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Monthly Status
-                Report</li>
+                Reports</li>
             </ul>
             <div class="d-grid">
               <a href="#" class="btn btn-primary text-uppercase">Button</a>
