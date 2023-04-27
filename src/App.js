@@ -23,7 +23,7 @@ function PricingCart() {
               <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Free Sub domain
               </li>
               <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Monthly Status
-                Reports</li>
+                Report</li>
             </ul>
             <div class="d-grid">
               <a href="#" class="btn btn-primary text-uppercase">Button</a>
